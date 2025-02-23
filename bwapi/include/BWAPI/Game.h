@@ -2,6 +2,7 @@
 #include <list>
 #include <string>
 #include <cstdarg>
+#include <cstdint>
 #include <vector>
 #include <tuple>
 
